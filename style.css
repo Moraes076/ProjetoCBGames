@@ -1,0 +1,75 @@
+body {
+  background-image: url("img/fundo.png");
+  background-size: 100%;
+  margin: 0px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color: white;
+}
+.cabeçalho {
+  width: 100%;
+  height: 5rem;
+  margin: 0px;
+  background-color: #423E3E;
+  display: flex;
+  justify-content: center;
+}
+ .pesquisa {
+  width: 15rem;
+  height: 15rem;
+  background-color: #143094;
+  
+} 
+.localizaçãologo {
+  position: absolute; 
+  left: 10px; 
+  top: -20px;
+  width: 100px;
+  height: 120px;
+}
+  .pesquisa2 {
+  width: 600px;
+  height: 50px;
+  background-color:  #143094 ;
+  border-radius: 0% 0% 60% 60%;
+  text-align: center
+}
+.topo{
+  position: absolute;
+  top: -15px;
+  left: 690px;
+}
+.cadastro {
+  position: absolute;
+  top: 20px;
+  left: 535px;
+  text-align: center;
+  font-weight: 10;
+  font-size: 90px;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.cadastro2 {
+  background-color: black;
+  position: absolute;
+  top: 200px;
+  left: 100px;
+  width: 1335px;
+  height: 550px;
+}
+#email {
+    background: #32353C;
+    border-radius: 3px;
+    color: #E9E9E9;
+    padding: 8px 6px;
+    display: block;
+    box-shadow: none;
+    border: none;
+    width: 50%;
+    transition: border ease-in-out .5s;
+    font-family: "Motiva Sans", Sans-serif;
+    font-weight: normal;
+    position: absolute;
+    left: 500px
+}
+#endereço{
+  
+}
